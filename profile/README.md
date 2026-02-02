@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/258806319" alt="Brasão de Hogwarts" width="300">
 </p>
 
-<h1 align="center">Bem-vindo(a) a Escola de Mágia e Bruxaria de Hogwarts!</h1>
+<h1 align="center">Bem-vindo(a) a Escola de Magia e Bruxaria de Hogwarts!</h1>
 
 <p align="center">
     <em>Draco dormiens nunquam titillandus.</em>
